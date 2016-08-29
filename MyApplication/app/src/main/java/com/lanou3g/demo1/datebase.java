@@ -5,4 +5,11 @@ package com.lanou3g.demo1;
  */
 public class datebase {
     //气死你
+
+
+
+
+
+
+    
 }
