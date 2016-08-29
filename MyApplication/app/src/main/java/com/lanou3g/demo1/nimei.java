@@ -5,4 +5,5 @@ package com.lanou3g.demo1;
  */
 public class nimei {
     //$$
+    //呵呵
 }
