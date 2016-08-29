@@ -11,6 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //要听话!!!!!!!!
 
+<<<<<<< HEAD
+=======
         //NoNoNo
+>>>>>>> d2b3c7bac27527939dc6495515facddb12e0d215
     }
 }
